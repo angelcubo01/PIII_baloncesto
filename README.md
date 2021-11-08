@@ -38,6 +38,10 @@ Ayudado por:
 
 * **D. José R. García-Bermejo Giner** - Profesor 
 
+## Licencia 📄
+
+Este proyecto está bajo la Licencia GNU General Public License v3.0 - mira el archivo [GNU General Public License v3.0](https://github.com/angelcubo01/PIIIBaloncesto/blob/main/LICENSE) para detalles
+
 ## Ayuda
 
 En caso de necesitar más información contactar con [angelcubo01](https://github.com/angelcubo01)
